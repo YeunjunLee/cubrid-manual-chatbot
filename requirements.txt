@@ -1,0 +1,16 @@
+# ✅ Core dependencies
+langchain>=0.1.20
+langchain-community>=0.0.26
+streamlit>=1.35.0
+transformers>=4.41.2
+sentence-transformers>=2.7.0
+
+# 🔤 Tokenizer & model loading
+huggingface-hub>=0.22.2
+
+# ⚙️ Backend utils
+numpy>=1.26.4
+scipy>=1.13.1
+
+# 🛠️ Optional (safer CLI, dev)
+tqdm>=4.66.4
