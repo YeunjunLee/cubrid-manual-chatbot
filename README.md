@@ -45,7 +45,7 @@ langchain
 langchain-commuinity
 ```
 
-> ⚠️ Ensure CUBRID 11.2+ and HNSW indexing are supported in your installation.
+> ⚠️ Ensure CUBRID 11.4+ and cubvec should be supported in CUBRID Database. Cubrid Python Driver is also required.
 
 ---
 
